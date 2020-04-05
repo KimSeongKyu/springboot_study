@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.study.springboot.web.dto.ResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-04T10:05:04" hostname="Pens-Joa" time="0.094">
-  <properties/>
-  <testcase name="testLombok" classname="com.study.springboot.web.dto.ResponseDtoTest" time="0.094"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
