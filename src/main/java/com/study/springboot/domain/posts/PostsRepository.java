@@ -7,6 +7,6 @@ import java.util.List;
 
 public interface PostsRepository extends JpaRepository<Posts, Long> {
 
-    @Query("SELECT p FROM Posts p ORDER BY p.id DESC")  //SpringDataJpa에서 제공하는 기본 메소드로 해결 가능
+    @Query("SELECT p FROM Posts p ORDER BY p.id DESC")
     List<Posts> findAllDesc();
 }
