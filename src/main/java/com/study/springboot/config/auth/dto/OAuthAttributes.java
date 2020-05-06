@@ -4,7 +4,6 @@ import com.study.springboot.domain.user.Role;
 import com.study.springboot.domain.user.User;
 import lombok.Builder;
 import lombok.Getter;
-import org.springframework.security.core.parameters.P;
 
 import java.util.Map;
 
